@@ -4,4 +4,4 @@ Day 3: Stayed awake until 4 so naps were a heavy part of the day + a Travel Team
 Day 4: Actually did some stuff. Worked on the intro screen for Clash Tracks. Using an old Gamkedo game Thopiax as a jumping off point in how to best do it. Still a WIP, but trying to get comfortable having things not done yet, but doesn't break anything. lol
 Day 5: Messing with intro.js fade in. Found how to get it to show at the beginning. Got the fade in to work using setInterval. Feels a little hacky.
 Day 6: Today was kind of a wash. I got derailed by some mind monopolizing news. I did look into how to use the tint function and looked at the smokescreen code that was added. Quite cool.
-placeholder for tonight
+Day 20: Learned SQL and scored a job interview, scoring a 98% on the SQL assessment yesterday. Pretty proud. Super behind on updating this. Need to work on Clash Tracks more and update the blacksmith site with the requested updates.
