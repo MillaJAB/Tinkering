@@ -6,4 +6,4 @@ Day 5: Messing with intro.js fade in. Found how to get it to show at the beginni
 Day 6: Today was kind of a wash. I got derailed by some mind monopolizing news. I did look into how to use the tint function and looked at the smokescreen code that was added. Quite cool.
 Day 20: Learned SQL and scored a job interview, scoring a 98% on the SQL assessment yesterday. Pretty proud. Super behind on updating this. Need to work on Clash Tracks more and update the blacksmith site with the requested updates.
 Day 22: Made a Clash Tracks update so the mines explode when you shoot them. Also updated a bunch on the blacksmith site. Got the actual credentials, so I'm updating her actual site. Getting close to finishing this, boyeeee.
-Day 23:
+Day 23: Created a functional Game Over screen for Clash Tracks.
