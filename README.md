@@ -8,3 +8,4 @@ Day 20: Learned SQL and scored a job interview, scoring a 98% on the SQL assessm
 Day 22: Made a Clash Tracks update so the mines explode when you shoot them. Also updated a bunch on the blacksmith site. Got the actual credentials, so I'm updating her actual site. Getting close to finishing this, boyeeee.
 Day 23: Created a functional Game Over screen for Clash Tracks.
 Day 25: Spent last night studying up for interview and interviewed today. *fingers crossed*
+Day 33: IT LOOKS LIKE THIS JOB THING IS HAPPENING!
