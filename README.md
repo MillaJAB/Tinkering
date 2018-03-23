@@ -9,3 +9,4 @@ Day 22: Made a Clash Tracks update so the mines explode when you shoot them. Als
 Day 23: Created a functional Game Over screen for Clash Tracks.
 Day 25: Spent last night studying up for interview and interviewed today. *fingers crossed*
 Day 33: IT LOOKS LIKE THIS JOB THING IS HAPPENING!
+Day 38: Gave my notice at work!
