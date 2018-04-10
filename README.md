@@ -11,3 +11,5 @@ Day 25: Spent last night studying up for interview and interviewed today. *finge
 Day 33: IT LOOKS LIKE THIS JOB THING IS HAPPENING!
 Day 38: Gave my notice at work!
 Day 46: Looking into sorting table by multiple criteria. Last day of work is tomorrow.
+
+4/9: First day of work at RetailMeNot. All the command line stuff I did today totally counts for Git work.
